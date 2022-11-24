@@ -1,0 +1,10 @@
+.side-container {
+  display: flex;
+  flex-direction: column;
+}
+.logout {
+  margin-top: auto;
+}
+.nav {
+  text-decoration: None;
+}
